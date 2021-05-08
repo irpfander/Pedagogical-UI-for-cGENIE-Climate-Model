@@ -17,7 +17,7 @@ UI_histc_2d.m : altered plot_histc_2d.m to be compatible with UI
 
 Using the interface:
 - Download the Biogem-UI folder
-- Run BiogemApp.mlapp with MATLAB after adding your experiment folder (with netCDF file) into the same folder
+- Run BiogemApp.mlapp with MATLAB after adding your experiment folder (with netCDF file) into the cgenie_output folder
 
 
 Contribution: To contribute to this project contact Isabelle Pfander (irpfander) on Github
