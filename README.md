@@ -1,0 +1,2 @@
+# Pedagogical-UI-for-cGENIE-Climate-Model
+The cGENIE model is an intermediate complexity Earth System Model which includes atmosphere, ocean, and biogeochemistry components. The model has been used in a wide range of geoscience research from climate to ocean plankton ecology topics. To make this powerful tool more accessible to undergraduates, I am creating a self-documented pedagogical user interface for visualizing model output. The interface will include explanations of parameters, functions, and computation behind cGENIE. 
